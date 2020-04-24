@@ -1,3 +1,0 @@
-This is third GIT file !
-modifying file3.........
-edit again.
